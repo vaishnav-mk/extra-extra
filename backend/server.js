@@ -14,7 +14,7 @@ const RESULTS_FILE_PATH = "results.json";
 
 let channel;
 let wsServer;
-const clientConnections = new Map(); // Map to store WebSocket connections by query ID
+const clientConnections = new Map();
 
 const handleMessage = (msg) => {
   console.log("Received message from results queue");
@@ -87,7 +87,7 @@ amqp
           Buffer.from(JSON.stringify(queryMessage))
         );
 
-        clientConnections.set(queryId, ws); // Store WebSocket connection associated with query ID
+        clientConnections.set(queryId, ws);
 
         ws.send(
           JSON.stringify({

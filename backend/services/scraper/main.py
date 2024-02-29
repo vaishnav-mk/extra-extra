@@ -20,7 +20,6 @@ def main():
     connection = pika.BlockingConnection(pika.ConnectionParameters(host=RABBITMQ_HOST))
     channel = connection.channel()
 
-    # Declare queues
     channel.queue_declare(queue=ARTICLE_URLS_QUEUE, durable=True)
     channel.queue_declare(queue=ARTICLE_CONTENTS_QUEUE, durable=True)
     channel.queue_declare(queue=RESULTS_QUEUE, durable=True)

@@ -1993,5 +1993,48 @@
     "sentiment_results": {
       "https://www.indiatoday.in/sports/cricket/video/india-vs-england-2nd-test-joe-root-bounce-back-rajkot-test-history-2499205-2024-02-08": "positive"
     }
+  },
+  {
+    "id": "iixe0g",
+    "articleUrls": [
+      "https://www.indiatoday.in/sports/cricket/video/india-vs-england-2nd-test-joe-root-bounce-back-rajkot-test-history-2499205-2024-02-08"
+    ],
+    "articleContents": {
+      "https://www.indiatoday.in/sports/cricket/video/india-vs-england-2nd-test-joe-root-bounce-back-rajkot-test-history-2499205-2024-02-08": "Congress leader Karti Chidambaram targeted the Uttarakhand government and labelled the state a test lab for 'Hindutva Iran'. \"Uttarakhand is the test lab for Hindutva Iran,\" the Member of Parliament from Sivaganga, Tamil Nadu, wrote on X. The Uttarakhand government passed the Uniform Civil Code Bill on Wednesday, making Uttarakhand the first state in the country to implement the Uniform Civil Code. The Bill, which aims to replace the old personal laws governing marriage, divorce, succession, and live-in relationships, was passed despite opposition demands to refer it to the select committee of the House."
+    },
+    "summarized_contents": {
+      "https://www.indiatoday.in/sports/cricket/video/india-vs-england-2nd-test-joe-root-bounce-back-rajkot-test-history-2499205-2024-02-08": "Congress leader Karti Chidambaram targeted the Uttarakhand government and labelled the state a test lab for 'Hindutva Iran'. \"Uttarakhand is the test lab for Hindutva Iran,\" the Member of Parliament from Sivaganga, Tamil Nadu, wrote on X. The Bill, which aims to replace the old personal laws governing marriage, divorce, succession, and live-in relationships, was passed despite opposition demands to refer it to the select committee of the House."
+    },
+    "extracted_keywords": {
+      "https://www.indiatoday.in/sports/cricket/video/india-vs-england-2nd-test-joe-root-bounce-back-rajkot-test-history-2499205-2024-02-08": [
+        "old personal laws governing marriage",
+        "congress leader karti chidambaram targeted",
+        "passed despite opposition demands",
+        "hindutva iran ,\"",
+        "hindutva iran '.",
+        "test lab",
+        "test lab",
+        "tamil nadu",
+        "select committee",
+        "uttarakhand government",
+        "uttarakhand",
+        "x",
+        "wrote",
+        "succession",
+        "state",
+        "sivaganga",
+        "replace",
+        "relationships",
+        "refer",
+        "parliament",
+        "member",
+        "live",
+        "labelled",
+        "house",
+        "divorce",
+        "bill",
+        "aims"
+      ]
+    }
   }
 ]
